@@ -10,4 +10,3 @@ Module React Native EPITECH
 -Prendre photo
 
 -Get photos from Insta
-niqueamere
